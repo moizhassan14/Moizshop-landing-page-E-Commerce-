@@ -30,7 +30,7 @@ const Footer = () => {
               href=""
               className="text-primary font-semibold tracking-widest text-2xl uppercase sm:text-3xl"
             >
-              Eshop
+              Moizshop
             </a>
             <p className="text-gray-600 dark:text-white/70 lg:pr-24 pt-3">
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -82,7 +82,7 @@ const Footer = () => {
                 </div>
                 <div className="flex items-center gap-3 mt-6">
                     <FaMobileAlt/>
-                    <p>+92 3112052024</p>
+                    <p>+92 3363112777</p>
                 </div>
                 {/* social links */}
                 <div className="flex items-center gap-3 mt-6">
